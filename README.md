@@ -1,6 +1,8 @@
 # Clutter Swipe
 
-Think Tinder for the videos on your Windows PC. Clutter Swipe shows you one clip at a time, starting with the biggest MP4. Play it, then **swipe left to keep it** or **swipe right to send it to the Recycle Bin**. Using a mouse? Click **Keep** or **Delete**. Your videos stay on your computer.
+Think Tinder for the videos on your Windows PC. Clutter Swipe shows you one clip at a time, starting with the biggest MP4. Play it, then **swipe left to keep it** or **swipe right to send it to the Recycle Bin**. Using a mouse? Click **Keep** or **Delete**.
+
+> **Clutter Swipe runs entirely on your PC.** Your browser connects to the app on your own computer, so you can review videos offline. Clutter Swipe never uploads your videos, filenames, or folder paths.
 
 ![Clutter Swipe showing a sample camera test, its 1.26 GB file size, and the Keep and Delete buttons](docs/screenshots/review.png)
 
