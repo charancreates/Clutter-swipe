@@ -1,6 +1,6 @@
-﻿# Clutter Swipe
+# Clutter Swipe
 
-Running low on space on your Windows PC? Clutter Swipe shows your biggest MP4 videos first. Play a clip, check its name and size, then decide whether to keep it or move it to the Windows Recycle Bin. Your videos stay on your computer.
+Think Tinder for the videos on your Windows PC. Clutter Swipe shows you one clip at a time, starting with the biggest MP4. Play it, then **swipe left to keep it** or **swipe right to send it to the Recycle Bin**. Using a mouse? Click **Keep** or **Delete**. Your videos stay on your computer.
 
 ![Clutter Swipe showing a sample camera test, its 1.26 GB file size, and the Keep and Delete buttons](docs/screenshots/review.png)
 
